@@ -1,0 +1,11 @@
+.pic {
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10x;
+    max-width: 500px;
+}
+.headingbar {
+    text-align: center;
+    padding: 10px;
+}
